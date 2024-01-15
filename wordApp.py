@@ -7,7 +7,7 @@ import logging
 import sys
 
 # variables
-pb = Pushbullet('o.JRKrxox8PLl5Kv9zl6xNzGYaoHqLHkvp')
+pb = Pushbullet('')
 
 # setup logging
 log = logging.getLogger()
